@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "https://docjmd.github.io/csb-m4in2/static/css/main.4765684a.chunk.css",
-    "main.js": "https://docjmd.github.io/csb-m4in2/static/js/main.9d98bac0.chunk.js",
-    "main.js.map": "https://docjmd.github.io/csb-m4in2/static/js/main.9d98bac0.chunk.js.map",
-    "runtime-main.js": "https://docjmd.github.io/csb-m4in2/static/js/runtime-main.fd0ce20f.js",
-    "runtime-main.js.map": "https://docjmd.github.io/csb-m4in2/static/js/runtime-main.fd0ce20f.js.map",
-    "static/js/2.91a48208.chunk.js": "https://docjmd.github.io/csb-m4in2/static/js/2.91a48208.chunk.js",
-    "static/js/2.91a48208.chunk.js.map": "https://docjmd.github.io/csb-m4in2/static/js/2.91a48208.chunk.js.map",
+    "main.css": "https://docjmd.github.io/csb-m4in2/static/css/main.2d09c7ec.chunk.css",
+    "main.js": "https://docjmd.github.io/csb-m4in2/static/js/main.56684770.chunk.js",
+    "main.js.map": "https://docjmd.github.io/csb-m4in2/static/js/main.56684770.chunk.js.map",
+    "runtime-main.js": "https://docjmd.github.io/csb-m4in2/static/js/runtime-main.91bf0065.js",
+    "runtime-main.js.map": "https://docjmd.github.io/csb-m4in2/static/js/runtime-main.91bf0065.js.map",
+    "static/css/2.beb3ea16.chunk.css": "https://docjmd.github.io/csb-m4in2/static/css/2.beb3ea16.chunk.css",
+    "static/js/2.f1dd0d51.chunk.js": "https://docjmd.github.io/csb-m4in2/static/js/2.f1dd0d51.chunk.js",
+    "static/js/2.f1dd0d51.chunk.js.map": "https://docjmd.github.io/csb-m4in2/static/js/2.f1dd0d51.chunk.js.map",
     "index.html": "https://docjmd.github.io/csb-m4in2/index.html",
-    "static/css/main.4765684a.chunk.css.map": "https://docjmd.github.io/csb-m4in2/static/css/main.4765684a.chunk.css.map",
-    "static/js/2.91a48208.chunk.js.LICENSE.txt": "https://docjmd.github.io/csb-m4in2/static/js/2.91a48208.chunk.js.LICENSE.txt"
+    "static/css/2.beb3ea16.chunk.css.map": "https://docjmd.github.io/csb-m4in2/static/css/2.beb3ea16.chunk.css.map",
+    "static/css/main.2d09c7ec.chunk.css.map": "https://docjmd.github.io/csb-m4in2/static/css/main.2d09c7ec.chunk.css.map",
+    "static/js/2.f1dd0d51.chunk.js.LICENSE.txt": "https://docjmd.github.io/csb-m4in2/static/js/2.f1dd0d51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd0ce20f.js",
-    "static/js/2.91a48208.chunk.js",
-    "static/css/main.4765684a.chunk.css",
-    "static/js/main.9d98bac0.chunk.js"
+    "static/js/runtime-main.91bf0065.js",
+    "static/css/2.beb3ea16.chunk.css",
+    "static/js/2.f1dd0d51.chunk.js",
+    "static/css/main.2d09c7ec.chunk.css",
+    "static/js/main.56684770.chunk.js"
   ]
 }
